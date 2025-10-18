@@ -1,0 +1,7 @@
+com\ibmnj\client\model\User$Company.class
+com\ibmnj\client\service\RestClientService.class
+com\ibmnj\client\IbmNjRestClientApplication.class
+com\ibmnj\client\model\User.class
+com\ibmnj\client\controller\DemoController.class
+com\ibmnj\client\model\User$Address$Geo.class
+com\ibmnj\client\model\User$Address.class

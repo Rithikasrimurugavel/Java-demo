@@ -1,0 +1,4 @@
+- [x] Move files to proper Maven structure
+- [x] Replace deprecated RestTemplate with WebClient in RestClientService.java
+- [x] Update pom.xml to use WebFlux instead of Web for WebClient support
+- [x] Combine frontend files into Spring Boot static resources

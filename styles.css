@@ -1,0 +1,24 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.delete-btn {
+    margin-top: 10px;
+}
+
+#search-input {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.card-header {
+    background-color: #f8f9fa;
+}
